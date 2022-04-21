@@ -1,0 +1,61 @@
+Wilayah 	| Positif 	| Rawat | Sembuh 	| Meninggal | Operator		| Nim			|
+Dki Jakarta | 1.245.653 | 411 	| 1.227.793 | 15.244 	| RODE AKBAR 	| 191011402100	|
+Jawa Barat  | 1.245.653 | 411 	| 1.227.793 | 15.244 	| RODE AKBAR 	| 191011402100	|
+Banten  	| 1.245.653 | 411 	| 1.227.793 | 15.244 	| RODE AKBAR 	| 191011402100	|
+Jawa Tengah | 1.245.653 | 411 	| 1.227.793 | 15.244 	| RODE AKBAR 	| 191011402100	|
+ 
+  
+  
+  
+  
+  
+  
+ Dki Jakarta
+  1
+  23
+  3
+  5
+  Rode
+  191011402100
+ 
+  
+  
+  
+  
+  
+  
+ Dki Jakarta
+  1
+  23
+  4
+  5
+  Rode
+  191011402100
+ Dki Jakarta, 1, 23, 4, 5, Rode, 191011402100
+ Dki Jakarta, 20, 4, 100, 40, Akbar, 191011402100
+ |  |  |  |  |  | 
+ Dki Jakarta| 1.245.653 | 411 | 1.227.793  | 15.244 | Rode Akbar | 191011402100
+ 
+  Wilayah : Dki Jakarta
+  Positif : 1.245.653
+  Rawat : 411
+  Sembuh : 1.227.793 
+  Meninggal : 15.244
+  Operator : Rode Akbar
+  Nim : 191011402100
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : Dki Jakarta
+  Positif : 1.245.653
+  Rawat : 411
+  Sembuh : 1.227.793 
+  Meninggal : 15.244
+  Operator : Rode Akbar
+  Nim : 191011402100
