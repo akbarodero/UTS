@@ -121,7 +121,7 @@
   Operator : $operator
   Nim : $nim";
 
-  // Buka file mhs.txt, kemudian tuliskan isi variabel di atas kedalam mhs.txt
+  // Buka file data.txt, kemudian tuliskan isi variabel di atas kedalam data.txt
   $fh = fopen("data.txt", "a");
   fwrite($fh, $data);
 
